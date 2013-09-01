@@ -11,5 +11,5 @@ Email Address Validator
 
 
 ## Based on...
-This RegExp is based on Michael Rushtons RegExp an is officially used by PHP in "filter_var()". 
+This RegExp is based on Michael Rushtons RegExp and is officially used by PHP in "filter_var()". 
 See: http://svn.php.net/viewvc/php/php-src/trunk/ext/filter/logical_filters.c?view=markup
